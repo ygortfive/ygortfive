@@ -9,7 +9,6 @@ You can use the website to generate badges: https://shields.io/
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ygor-mattos-720b63147/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ygormattos.b@gmail.com)
 
-&nbsp;
 
 <!-- Talking about you -->
 ## **Talking about Personal Stuffs:**
