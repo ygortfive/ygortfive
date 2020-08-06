@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="ygormattos" src="https://i.ibb.co/qgTMyPj/ygu.jpg" />
 
-- 👨🏽‍💻 I’m currently working on **SKY Brasil**;
+- 👨🏽‍💻 I’m currently working at **SKY Brasil**;
 - 🌱 I’m currently learning NodeJS, ReactJS and React Native; 
 - 🤔 I’m looking for help with Design Pattern 😭;
 - 💬 Ask me about anything, I am happy to help;
